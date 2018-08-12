@@ -1,5 +1,5 @@
-(ns cw-kata.7kyu.last-val-test
-  (:use [cw-kata.7kyu [last-val]])
+(ns cp.7kyu.last-val-test
+  (:use [cp.7kyu [last-val]])
   (:require [clojure.test :refer :all]))
 
 (deftest last-val-test1

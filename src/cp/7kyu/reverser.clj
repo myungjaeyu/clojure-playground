@@ -1,4 +1,4 @@
-(ns cw-kata.7kyu.reverser)
+(ns cp.7kyu.reverser)
 
 ; 반환하는 문장값을 뒤집어라
 

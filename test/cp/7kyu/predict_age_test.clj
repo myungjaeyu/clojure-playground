@@ -1,5 +1,5 @@
-(ns cw-kata.7kyu.predict-age-test
-  (:use [cw-kata.7kyu [predict-age]])
+(ns cp.7kyu.predict-age-test
+  (:use [cp.7kyu [predict-age]])
   (:require [clojure.test :refer :all]))
 
 (deftest predit-age-test1

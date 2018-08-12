@@ -1,5 +1,5 @@
-(ns cw-kata.7kyu.vowel-indeices-test
-  (:use [cw-kata.7kyu [vowel-indeices]])
+(ns cp.7kyu.vowel-indeices-test
+  (:use [cp.7kyu [vowel-indeices]])
   (:require [clojure.test :refer :all]))
 
 (deftest vowel-indeices-test1

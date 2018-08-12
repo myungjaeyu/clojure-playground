@@ -1,4 +1,4 @@
-(ns cw-kata.7kyu.average)
+(ns cp.7kyu.average)
 
 ; 배열에 담긴 값들의 평균 값을 반환
 

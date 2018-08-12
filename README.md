@@ -1,4 +1,4 @@
-# cw-kata
+# cp
 
 ## Usage
 

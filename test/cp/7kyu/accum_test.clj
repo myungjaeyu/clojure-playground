@@ -1,5 +1,5 @@
-(ns cw-kata.7kyu.accum-test
-  (:use [cw-kata.7kyu [accum]])
+(ns cp.7kyu.accum-test
+  (:use [cp.7kyu [accum]])
   (:require [clojure.test :refer :all]))
 
 (deftest accum-test1

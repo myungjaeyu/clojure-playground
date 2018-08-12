@@ -1,4 +1,4 @@
-(ns cw-kata.8kyu.chromosome-check)
+(ns cp.8kyu.chromosome-check)
 
 ; 반환 값이 XY일 시 Congratulations! You're going to have a son.
 

@@ -1,5 +1,5 @@
-(ns cw-kata.8kyu.chromosome-check-test
-  (:use [cw-kata.8kyu [chromosome-check]])
+(ns cp.8kyu.chromosome-check-test
+  (:use [cp.8kyu [chromosome-check]])
   (:require [clojure.test :refer :all]))
 
 (deftest simple-tests

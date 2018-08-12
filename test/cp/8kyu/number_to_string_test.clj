@@ -1,5 +1,5 @@
-(ns cw-kata.8kyu.number-to-string-test
-  (:use [cw-kata.8kyu [number-to-string]])
+(ns cp.8kyu.number-to-string-test
+  (:use [cp.8kyu [number-to-string]])
   (:require [clojure.test :refer :all]))
 
 (deftest a-test1

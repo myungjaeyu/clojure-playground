@@ -1,5 +1,5 @@
-(ns cw-kata.7kyu.sum
-  (:use [cw-kata.7kyu [sum]])
+(ns cp.7kyu.sum
+  (:use [cp.7kyu [sum]])
   (:require [clojure.test :refer :all]))
 
 (deftest simple-tests

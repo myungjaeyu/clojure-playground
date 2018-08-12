@@ -1,5 +1,5 @@
-(ns cw-kata.7kyu.reverser-test
-  (:use [cw-kata.7kyu [reverser]])
+(ns cp.7kyu.reverser-test
+  (:use [cp.7kyu [reverser]])
   (:require [clojure.test :refer :all]))
 
 (deftest reverser-test1
