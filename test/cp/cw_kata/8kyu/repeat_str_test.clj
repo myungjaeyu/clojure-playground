@@ -1,5 +1,5 @@
-(ns cp.8kyu.repeat-str-test
-  (:use [cp.8kyu [repeat-str]])
+(ns cp.cw-kata.8kyu.repeat-str-test
+  (:use [cp.cw-kata.8kyu [repeat-str]])
   (:require [clojure.test :refer :all]))
 
 (deftest a-test1

@@ -1,5 +1,5 @@
-(ns cp.8kyu.star-sort-test
-  (:use [cp.8kyu [star-sort]])
+(ns cp.cw-kata.8kyu.star-sort-test
+  (:use [cp.cw-kata.8kyu [star-sort]])
   (:require [clojure.test :refer :all]))
 
 (deftest a-test1

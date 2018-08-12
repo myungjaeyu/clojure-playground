@@ -1,5 +1,5 @@
-(ns cp.7kyu.average-test
-  (:use [cp.7kyu [average]])
+(ns cp.cw-kata.7kyu.average-test
+  (:use [cp.cw-kata.7kyu [average]])
   (:require [clojure.test :refer :all]))
 
 (deftest average-test1

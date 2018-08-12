@@ -1,4 +1,4 @@
-(ns cp.7kyu.accum)
+(ns cp.cw-kata.7kyu.accum)
 
 ; (accum "abcd")    ; "A-Bb-Ccc-Dddd"
 

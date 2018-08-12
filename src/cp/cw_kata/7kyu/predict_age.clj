@@ -1,4 +1,4 @@
-(ns cp.7kyu.predict-age)
+(ns cp.cw-kata.7kyu.predict-age)
 
 ; 증조부가 죽을 때마다 연령대를 기록하여 반환
 

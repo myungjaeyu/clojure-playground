@@ -1,4 +1,4 @@
-(ns cp.7kyu.vowel-indeices)
+(ns cp.cw-kata.7kyu.vowel-indeices)
 
 ; 모음의 인덱스를 리스트에 반환
 

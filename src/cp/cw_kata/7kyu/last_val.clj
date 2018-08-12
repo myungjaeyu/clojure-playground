@@ -1,4 +1,4 @@
-(ns cp.7kyu.last-val)
+(ns cp.cw-kata.7kyu.last-val)
 
 ; 주어진 값의 마지막 인수를 반환
 
