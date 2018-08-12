@@ -5,7 +5,5 @@
 ```
 $ lein deps
 
-$ lein run
-
 $ lein test
 ```
