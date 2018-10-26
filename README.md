@@ -1,4 +1,4 @@
-# clojure-playground
+# my-clojure
 
 #### Usage
 
